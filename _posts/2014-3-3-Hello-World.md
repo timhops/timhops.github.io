@@ -1,9 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: This Is My First Test Post
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
+Playing around with Github for version control is a goal of mine. Every time I've got hard code with command line options, I go blank. HTML, CSS I can do. This stuff... eh.
+
+Let's see if this post works.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
